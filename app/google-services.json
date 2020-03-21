@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "859216676444",
+    "firebase_url": "https://jumbo-5f100.firebaseio.com",
+    "project_id": "jumbo-5f100",
+    "storage_bucket": "jumbo-5f100.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859216676444:android:8b4cd40aa86246cb140899",
+        "android_client_info": {
+          "package_name": "com.example.jumbo_magazyn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859216676444-odi9pbf9ttb78id8lmq9tbfobt5jo84m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE2WwB-zhXSROvgF34coFoty8RBs5UINY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859216676444-odi9pbf9ttb78id8lmq9tbfobt5jo84m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
